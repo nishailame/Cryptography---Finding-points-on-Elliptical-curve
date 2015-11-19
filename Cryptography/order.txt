@@ -1,0 +1,1 @@
+(0,3) Order is =21(0,20) Order is =21(1,9) Order is =21(1,14) Order is =21(4,9) Order is =21(4,14) Order is =21(5,12) Order is =7(5,11) Order is =7(8,13) Order is =7(8,10) Order is =7(13,1) Order is =7(13,22) Order is =7(18,9) Order is =21(18,14) Order is =21(19,12) Order is =21(19,11) Order is =21(22,12) Order is =21(22,11) Order is =21
